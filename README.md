@@ -1,6 +1,6 @@
 # QuantResearch
 
-#The code in the Jupyter notebook is part of a Quantitative Research Lab assignment, and it demonstrates a methodical approach to discovering potential trading ideas based on historical financial data. The workflow of the code can be broadly described in the following steps:
+The code in the Jupyter notebook is part of a Quantitative Research Lab assignment, and it demonstrates a methodical approach to discovering potential trading ideas based on historical financial data. The workflow of the code can be broadly described in the following steps:
 
 ## Importing Libraries: 
 Essential Python libraries for data manipulation, analysis, and visualization are imported, such as yfinance, pandas, numpy, and matplotlib.pyplot. Warnings are suppressed for a cleaner output.
